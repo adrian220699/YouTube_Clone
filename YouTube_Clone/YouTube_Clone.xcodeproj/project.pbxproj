@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		3AEA3D062FFC800E005264CB /* 12067E12-certificate.pem in Resources */ = {isa = PBXBuildFile; fileRef = 3AEA3D052FFC800D005264CB /* 12067E12-certificate.pem */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		3A02DD7B2FE34A30005D7950 /* YouTube_Clone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YouTube_Clone.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3AEA3D052FFC800D005264CB /* 12067E12-certificate.pem */ = {isa = PBXFileReference; lastKnownFileType = text; path = "12067E12-certificate.pem"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -47,6 +52,7 @@
 			children = (
 				3A02DD7D2FE34A30005D7950 /* YouTube_Clone */,
 				3A02DD7C2FE34A30005D7950 /* Products */,
+				3AEA3D052FFC800D005264CB /* 12067E12-certificate.pem */,
 			);
 			sourceTree = "<group>";
 		};
@@ -122,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3AEA3D062FFC800E005264CB /* 12067E12-certificate.pem in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
