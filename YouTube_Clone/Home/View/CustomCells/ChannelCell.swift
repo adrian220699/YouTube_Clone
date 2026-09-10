@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import Kingfisher
 
 class ChannelCell: UITableViewCell {
 
@@ -37,6 +38,19 @@ class ChannelCell: UITableViewCell {
         channelTitle.text = model.snippet.title
         susbriberNumberLabel.text = "\(model.statistics?.subscriberCount ?? "0") subscribers . \(model.statistics?.videoCount ?? "0") videos"
         
+        
+        if let bannerUrl = model.brandingSettings?.image.bannerExternalUrl, let url = URL(string: bannerUrl) {
+            bannerImage.kf.setImage(with: url)
+        }
+        
+        
+        let imageUrl = model.snippet.thumbnails.medium.url
+        
+        guard let url = URL(string: imageUrl) else {
+            return
+        }
+        
+        profileImage.kf.setImage(with: url)
         
     }
     
