@@ -1,0 +1,63 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "NHgzZWANnAtbVka27kjxDe2eTv8",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "2LCT28KqEe4jk7bRqvG4n7KoVMk",
+            "id": "UCVD5Vh9LhLBxp3o1vRNyf_w",
+            "snippet": {
+                "title": "London App Brewery",
+                "description": "We teach complete beginners Web Development, how to make iOS, Flutter and Android apps, as well as Data Science. Are you someone who wants to master coding as a new skill? Do you want to upskill and get that promotion? Or do you want to quit your job and work for yourself?\n\nWe are the fastest way to learn how to code. Our courses assume no prior programming experience and take you from beginner to advanced. \n\nChoose your learning track at:\nhttps://www.appbrewery.co/\n\nSubscribe to our newsletter for the latest on programming, digital design, and running a tech business:\nhttps://www.appbrewery.co/p/newsletter/",
+                "customUrl": "@appbrewery",
+                "publishedAt": "2015-06-10T11:03:40Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_kRcKOU4apMYom4t7jG-mr15F2pKD_eAfStKx_h49pVyg=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_kRcKOU4apMYom4t7jG-mr15F2pKD_eAfStKx_h49pVyg=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_kRcKOU4apMYom4t7jG-mr15F2pKD_eAfStKx_h49pVyg=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "London App Brewery",
+                    "description": "We teach complete beginners Web Development, how to make iOS, Flutter and Android apps, as well as Data Science. Are you someone who wants to master coding as a new skill? Do you want to upskill and get that promotion? Or do you want to quit your job and work for yourself?\n\nWe are the fastest way to learn how to code. Our courses assume no prior programming experience and take you from beginner to advanced. \n\nChoose your learning track at:\nhttps://www.appbrewery.co/\n\nSubscribe to our newsletter for the latest on programming, digital design, and running a tech business:\nhttps://www.appbrewery.co/p/newsletter/"
+                },
+                "country": "GB"
+            },
+            "statistics": {
+                "viewCount": "7136897",
+                "subscriberCount": "120000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "222"
+            },
+            "brandingSettings": {
+                "channel": {
+                    "title": "London App Brewery",
+                    "description": "We teach complete beginners Web Development, how to make iOS, Flutter and Android apps, as well as Data Science. Are you someone who wants to master coding as a new skill? Do you want to upskill and get that promotion? Or do you want to quit your job and work for yourself?\n\nWe are the fastest way to learn how to code. Our courses assume no prior programming experience and take you from beginner to advanced. \n\nChoose your learning track at:\nhttps://www.appbrewery.co/\n\nSubscribe to our newsletter for the latest on programming, digital design, and running a tech business:\nhttps://www.appbrewery.co/p/newsletter/",
+                    "keywords": "\"how to make app\" XCode \"iOS Tutorial\" iPad iPhone Develop Code iOS \"iPhone Apps\" \"iPad Apps\" Developer Introduction \"Build iPhone Apps\" Walkthrough \"Step by Step\" Programming Beginner Development Swift \"App Store\" \"How to Make an App\" \"How to Make an iPhone App\" \"How to Create an App\" Flutter \"Web Development\" \"Data Science\" \"App Development\" HTML CSS \"Flutter Tutorial\" \"Data Science Tutorial\" \"Machine Learning Tutorial\" Python \"Web Development\" Javascript \"How to code\"",
+                    "trackingAnalyticsAccountId": "UA-62080042-8",
+                    "unsubscribedTrailer": "i3-PQ4CkU8s",
+                    "country": "GB"
+                },
+                "image": {
+                    "bannerExternalUrl": "https://yt3.googleusercontent.com/k0T0eBseV10OCFcR0d0IaGdp6TmZweYhxUX-i2iOVxXlX7EbJeBEgAeTQc-7O_NYbFK4i667"
+                }
+            }
+        }
+    ]
+}
+
