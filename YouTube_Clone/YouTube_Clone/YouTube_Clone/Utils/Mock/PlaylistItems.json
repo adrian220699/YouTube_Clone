@@ -1,0 +1,267 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "fS_ngJPJy87VTH5friZLNUJJWxk",
+    "nextPageToken": "EAAaHlBUOkNBVWlFREV5UlVaQ00wSXhRelUzUkVVMFJURQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CbtEoKCqojh9BqZaJYzy56I03lM",
+            "id": "UExTenNPa1VEc3Zkdjg2TWpfcm9ZdVl4eXpuVFBNTjZ3ZS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2024-03-12T11:26:45Z",
+                "channelId": "UCVD5Vh9LhLBxp3o1vRNyf_w",
+                "title": "How do websites work?",
+                "description": "Sign up to get the full Web Development Bootcamp course with over 65 hours of HD video content. \nhttps://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mS7eF6txzc0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mS7eF6txzc0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mS7eF6txzc0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mS7eF6txzc0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mS7eF6txzc0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "London App Brewery",
+                "playlistId": "PLSzsOkUDsvdv86Mj_roYuYxyznTPMN6we",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mS7eF6txzc0"
+                },
+                "videoOwnerChannelTitle": "London App Brewery",
+                "videoOwnerChannelId": "UCVD5Vh9LhLBxp3o1vRNyf_w"
+            },
+            "contentDetails": {
+                "videoId": "mS7eF6txzc0",
+                "videoPublishedAt": "2024-03-12T11:28:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hbW33stWpONcghVN-01QIOjPpYY",
+            "id": "UExTenNPa1VEc3Zkdjg2TWpfcm9ZdVl4eXpuVFBNTjZ3ZS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2024-03-12T11:30:10Z",
+                "channelId": "UCVD5Vh9LhLBxp3o1vRNyf_w",
+                "title": "How does the internet work?",
+                "description": "Sign up to get the full Web Development Bootcamp course with over 65 hours of HD video content. \nhttps://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XQ1SxwGK520/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XQ1SxwGK520/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XQ1SxwGK520/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XQ1SxwGK520/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XQ1SxwGK520/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "London App Brewery",
+                "playlistId": "PLSzsOkUDsvdv86Mj_roYuYxyznTPMN6we",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XQ1SxwGK520"
+                },
+                "videoOwnerChannelTitle": "London App Brewery",
+                "videoOwnerChannelId": "UCVD5Vh9LhLBxp3o1vRNyf_w"
+            },
+            "contentDetails": {
+                "videoId": "XQ1SxwGK520",
+                "videoPublishedAt": "2024-03-13T00:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kt5KCTxy6JbDZzbg5vqdN7dj6F8",
+            "id": "UExTenNPa1VEc3Zkdjg2TWpfcm9ZdVl4eXpuVFBNTjZ3ZS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2024-03-12T11:42:09Z",
+                "channelId": "UCVD5Vh9LhLBxp3o1vRNyf_w",
+                "title": "What is HTML?",
+                "description": "Sign up to get the full Web Development Bootcamp course with over 65 hours of HD video content. \nhttps://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zgw1T5xp0-I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zgw1T5xp0-I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zgw1T5xp0-I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zgw1T5xp0-I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zgw1T5xp0-I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "London App Brewery",
+                "playlistId": "PLSzsOkUDsvdv86Mj_roYuYxyznTPMN6we",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zgw1T5xp0-I"
+                },
+                "videoOwnerChannelTitle": "London App Brewery",
+                "videoOwnerChannelId": "UCVD5Vh9LhLBxp3o1vRNyf_w"
+            },
+            "contentDetails": {
+                "videoId": "zgw1T5xp0-I",
+                "videoPublishedAt": "2024-03-14T00:00:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "R4ovb0g3Hx9irtiubcqZkwKTSsM",
+            "id": "UExTenNPa1VEc3Zkdjg2TWpfcm9ZdVl4eXpuVFBNTjZ3ZS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2024-03-12T11:44:25Z",
+                "channelId": "UCVD5Vh9LhLBxp3o1vRNyf_w",
+                "title": "The HTML Heading Element",
+                "description": "Sign up to get the full Web Development Bootcamp course with over 65 hours of HD video content. \nhttps://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WRng4DAFRyc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WRng4DAFRyc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WRng4DAFRyc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WRng4DAFRyc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WRng4DAFRyc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "London App Brewery",
+                "playlistId": "PLSzsOkUDsvdv86Mj_roYuYxyznTPMN6we",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WRng4DAFRyc"
+                },
+                "videoOwnerChannelTitle": "London App Brewery",
+                "videoOwnerChannelId": "UCVD5Vh9LhLBxp3o1vRNyf_w"
+            },
+            "contentDetails": {
+                "videoId": "WRng4DAFRyc",
+                "videoPublishedAt": "2024-03-15T00:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pDIsk73yrnP9rUy7ZOCv6B9A8yY",
+            "id": "UExTenNPa1VEc3Zkdjg2TWpfcm9ZdVl4eXpuVFBNTjZ3ZS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2024-03-12T11:45:35Z",
+                "channelId": "UCVD5Vh9LhLBxp3o1vRNyf_w",
+                "title": "The HTML Paragraph Element",
+                "description": "Sign up to get the full Web Development Bootcamp course with over 65 hours of HD video content. \nhttps://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MKMg34lsFGc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MKMg34lsFGc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MKMg34lsFGc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MKMg34lsFGc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MKMg34lsFGc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "London App Brewery",
+                "playlistId": "PLSzsOkUDsvdv86Mj_roYuYxyznTPMN6we",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MKMg34lsFGc"
+                },
+                "videoOwnerChannelTitle": "London App Brewery",
+                "videoOwnerChannelId": "UCVD5Vh9LhLBxp3o1vRNyf_w"
+            },
+            "contentDetails": {
+                "videoId": "MKMg34lsFGc",
+                "videoPublishedAt": "2024-03-16T00:00:11Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 14,
+        "resultsPerPage": 5
+    }
+}
+
