@@ -5,14 +5,13 @@ Proyecto educativo desarrollado con UIKit para practicar desarrollo iOS.
 ## Requisitos
 
 - Xcode
+- CocoaPods
 - iOS 15.0+
 - YouTube Data API v3
 
-## Configuración
+## Instalación
 
-Antes de ejecutar el proyecto, agrega tu propia API key de YouTube Data API en:
+1. Clona el repositorio:
 
-`YouTube_Clone/Utils/Constants.swift`
-
-```swift
-static let apiKey = "YOUR_API_KEY"
+```bash
+git clone https://github.com/adrian220699/YouTube_Clone.git
