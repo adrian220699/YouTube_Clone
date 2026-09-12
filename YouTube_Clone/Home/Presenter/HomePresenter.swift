@@ -53,7 +53,7 @@ class HomePresenter {
             if let playlistId = responsePlaylist.first?.id, let playListItems = await getPlayListItems(playListId: playlistId) {
             
             // Index 1
-            objectList.append(playListItems.items)
+                objectList.append(playListItems.items.filter({$0.snippet.title != "Private video"}))
                 
                 sectionTitleList.append(responsePlaylist.first?.snippet.title ?? "")
 
